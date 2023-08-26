@@ -1,0 +1,21 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+.akademnashr-logo
+{
+  width: 227px;
+  height: 59.18px;
+}
+.hero
+{
+   width: 1440px;
+   height: 550px;
+}
+.hero-line
+{
+   width: 80px;
+   height: 3px;
+   background-color: #FF7500;
+}
