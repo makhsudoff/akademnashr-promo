@@ -3,10 +3,16 @@
   margin: 0;
   padding: 0;
 }
+
+/* SITE HEADER */
+
 .site-header
 {
   background-color: #fff;
 }
+
+/* SITE NAV */
+
 .sitenav-list
 {
   list-style: none;
@@ -35,6 +41,9 @@
   width: 227px;
   height: 60px;
 }
+
+/* HERO */
+
 .hero
 {
    width: 1440px;
@@ -69,6 +78,9 @@
    line-height: 1.5;
    letter-spacing: 0.5px;
 }
+
+/* FEATURES */
+
 .features-heading
 {
   width: 440px;
@@ -103,6 +115,9 @@
   letter-spacing: 0.5px;
 
 }
+
+/* PROMO */
+
 .promo
 {
   background-color: #252420;
