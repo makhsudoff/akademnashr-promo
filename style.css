@@ -3,6 +3,19 @@
   margin: 0;
   padding: 0;
 }
+body
+{
+   font-size: 16px;
+   line-height: 1.5;
+   letter-spacing: 0.5px;
+}
+
+*:focus
+{
+  outline: 2px solid #FF7500;
+  outline-offset: 3px;
+}
+
 
 /* SITE HEADER */
 
