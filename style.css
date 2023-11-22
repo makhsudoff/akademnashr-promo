@@ -746,16 +746,16 @@ strong
     height: 300px;
   }
 
-  .site-footer__links {
+  .site-footer-links {
     width: 100%;
     margin-right: 0;
   }
 
-  .site-footer__links:nth-child(3n) {
+  .site-footer-links:nth-child(3n) {
     margin-right: 0;
   }
 
-  .site-footer__links:last-child {
+  .site-footer-links:last-child {
     margin-bottom: 0;
   }
 }
