@@ -715,11 +715,11 @@ strong
     padding-bottom: 36px;
   }
 
-  .site-footer__top {
+  .site-footer-top {
     flex-direction: column;
   }
 
-  .site-footer__logo-link {
+  .site-footer-logo-link {
     margin-right: 0;
     margin-bottom: 24px;
   }
